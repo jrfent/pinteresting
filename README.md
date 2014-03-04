@@ -1,5 +1,5 @@
 # Pinteresting sample application
 
-this is just a bunch of crap.
+I built this in about 2 hours.  I'm ready to make something new.
 
 
